@@ -1,0 +1,137 @@
+.box
+{
+    background-color:rgb(207, 199, 199) ;
+    width: 240px;
+    height: 60px;
+    padding:60px ;
+    border:22px left;
+    text-align: justify;
+    position: relative;
+    margin: auto;
+
+
+}
+.box1
+{
+    background-color: whitesmoke;
+    width:240px;
+    height: 2px;
+    padding:60px ;
+    border:22px left;
+    text-align: justify;
+    position: relative;
+    margin: auto;
+}
+.box2
+{
+    font-size: 12px;
+    background-color:rgb(220, 208, 208) ;
+    width: 84px;
+    height: 60px;
+    padding:2px ;
+    border:22px left;
+    text-align: justify;
+    position: relative;
+    margin: auto;
+   
+   
+}
+.box3
+{
+    font-size: 12px;
+    background-color:rgb(220, 208, 208) ;
+    width: 84px;
+    height: 60px;
+    padding:2px ;
+    border:22px left;
+    text-align: justify;
+    position: relative;
+    margin: auto;
+   
+
+}
+.box4
+{
+    font-size: 6%;
+    background-color:rgb(84, 186, 161); 
+    width: 120px;
+    height: 60px;
+    border:12px black ;
+    padding: 6px;
+    position: relative;
+    text-align: justify;
+    float: left;
+}
+.box5
+{   font-size: 6%;
+    background-color:rgb(84, 186, 161); 
+    width: 120px;
+    height: 60px;
+    border:12px black ;
+    padding: 6px;
+    position: relative;
+    text-align: justify;
+    float: left;
+}
+.box6
+{
+    font-size: 6%;
+    background-color:rgb(84, 186, 161); 
+    width: 120px;
+    height: 60px;
+    padding:6px ;
+    position: relative;
+    text-align: justify;
+    border:12px black ;
+    float: left;
+}
+.box7
+{   font-size: 24px;
+    background-color:rgb(84, 186, 161); 
+    width: 60px;
+    height: 60px;
+    padding:6px ;
+    position: relative;
+    text-align: justify;
+    border:12px black ;
+    float: left;
+}
+.box8
+{
+    font-size: 24px;
+    background-color:white; 
+    width: 60px;
+    height: 60px;
+    padding:6px ; 
+    position: relative;
+    text-align: justify;
+    border:12px black ;
+    float: left;
+}
+.box9
+{
+    font-size: 24px;
+    background-color:white; 
+    width: 60px;
+    height: 60px;
+    padding:6px ; 
+    position: relative;
+    text-align: justify;
+    border:12px black ;
+    a{color:blue};/*yazının rengini mavi yaptım*/
+    float: left;
+}
+.box10
+{
+    font-size: 24px;
+    background-color:white; 
+    width: 60px;
+    height: 60px;
+    padding:6px ; 
+    position: relative;
+    text-align: justify;
+    border:12px black ;
+    float: left;
+}
+
+
